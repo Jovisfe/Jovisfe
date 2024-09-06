@@ -28,7 +28,3 @@ Aqui você encontrará alguns dos meus projetos, que refletem meu aprendizado e 
 
 - **LinkedIn:** [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-aa9912327/)
 - **Email:** [Jovitorgalaxytab3@gmail.com](mailto:Jovitorgalaxytab3@gmail.com)
-
----
-
-Vamos construir algo incrível juntos! 🚀
